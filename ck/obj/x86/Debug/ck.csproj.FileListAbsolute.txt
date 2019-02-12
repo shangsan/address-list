@@ -1,0 +1,11 @@
+d:\documents\visual studio 2010\Projects\ck\ck\obj\x86\Debug\Contact_Manage.AddContact.resources
+d:\documents\visual studio 2010\Projects\ck\ck\obj\x86\Debug\Contact_Manage.Change_Image.resources
+d:\documents\visual studio 2010\Projects\ck\ck\obj\x86\Debug\Contact_Manage.Contact_Manage.resources
+d:\documents\visual studio 2010\Projects\ck\ck\obj\x86\Debug\Contact_Manage.Mdfct_Acct_Username.resources
+d:\documents\visual studio 2010\Projects\ck\ck\obj\x86\Debug\Contact_Manage.Modification_Password.resources
+d:\documents\visual studio 2010\Projects\ck\ck\obj\x86\Debug\Contact_Manage.Menu.resources
+d:\documents\visual studio 2010\Projects\ck\ck\obj\x86\Debug\Contact_Manage.Login.resources
+d:\documents\visual studio 2010\Projects\ck\ck\obj\x86\Debug\Contact_Manage.Logout.resources
+d:\documents\visual studio 2010\Projects\ck\ck\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\ck\ck\obj\x86\Debug\Contact_Manage.Regist.resources
+d:\documents\visual studio 2010\Projects\ck\ck\obj\x86\Debug\ck.csproj.GenerateResource.Cache

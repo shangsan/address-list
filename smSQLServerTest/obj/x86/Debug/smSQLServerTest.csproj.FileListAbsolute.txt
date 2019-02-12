@@ -1,0 +1,9 @@
+E:\Samson Shoo's GIS Valley Farms\Visual Studio 2010 .NET开发\smSQLServerTest\smSQLServerTest\bin\Debug\smSQLServerTest.exe
+E:\Samson Shoo's GIS Valley Farms\Visual Studio 2010 .NET开发\smSQLServerTest\smSQLServerTest\bin\Debug\smSQLServerTest.pdb
+E:\Samson Shoo's GIS Valley Farms\Visual Studio 2010 .NET开发\smSQLServerTest\smSQLServerTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Samson Shoo's GIS Valley Farms\Visual Studio 2010 .NET开发\smSQLServerTest\smSQLServerTest\obj\x86\Debug\smSQLServerTest.MainForm.resources
+E:\Samson Shoo's GIS Valley Farms\Visual Studio 2010 .NET开发\smSQLServerTest\smSQLServerTest\obj\x86\Debug\smSQLServerTest.Properties.Resources.resources
+E:\Samson Shoo's GIS Valley Farms\Visual Studio 2010 .NET开发\smSQLServerTest\smSQLServerTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Samson Shoo's GIS Valley Farms\Visual Studio 2010 .NET开发\smSQLServerTest\smSQLServerTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Samson Shoo's GIS Valley Farms\Visual Studio 2010 .NET开发\smSQLServerTest\smSQLServerTest\obj\x86\Debug\smSQLServerTest.exe
+E:\Samson Shoo's GIS Valley Farms\Visual Studio 2010 .NET开发\smSQLServerTest\smSQLServerTest\obj\x86\Debug\smSQLServerTest.pdb
